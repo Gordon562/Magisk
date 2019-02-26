@@ -4,7 +4,7 @@ The following tutorial is for first time users. For Huawei users, please check t
 
 ## Prerequisite
 - If you plan to install custom kernels, flash the zip **AFTER** installing Magisk
-- Make sure to remove any 'boot image mods' such as other root solutions. The easiest way is to restore the boot image from factory images, or reflash a *non-prerooted* custom ROM
+- Make sure to remove any 'boot image mods' such as other root solutions. The easiest way is to restore the boot image from factory images, or reflash a *non-prerooted* custom ROM:/
 
 ## Custom Recovery
 If your device have custom recovery support, the easiest way is to install it through custom recoveries, such as TWRP.
